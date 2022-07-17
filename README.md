@@ -1,2 +1,3 @@
 # Html-Css
- Exercicios e desafios html-css
+
+ Exercicios e desafios feitos por mim, curso em video sobre html-css
